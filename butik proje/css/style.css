@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+      }
+        h1 {
+            text-align: center;
+            color: rgb(185, 8, 8);
+            font-size: 55px;
+            font-style: oblique;
+        }
+        h2 {
+            color: rgb(185, 8, 8);
+            font-size: 30px;
+            font-style: oblique;
+        }
+        p { 
+            font-size: 20px;
+            font-style: italic;
+            
+        }
+       div {
+            text-align: center;
+       }
